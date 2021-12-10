@@ -40,6 +40,11 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#footer {
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
 
 #post {
     background-color:white;
