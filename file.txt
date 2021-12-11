@@ -12,3 +12,4 @@ master 2
 
 elaborado por platzi team
 ejemplo en linux windows y mac
+disponible para todas las edades
